@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 140px;
+  pointer-events: none;
+  width: 100%;
+}
+
+.header {
+  margin: 0 0 50px;
+  text-align: center;
+}
